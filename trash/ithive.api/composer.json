@@ -1,0 +1,32 @@
+{
+    "name": "ithive/api",
+    "description": "ithive api",
+    "keywords": [],
+    "homepage": "http://wehive.digital",
+    "require": {
+        "phpunit/phpunit": "4.8.27",
+        "phpdocumentor/phpdocumentor": "v2.9.0",
+        "php": ">=5.4.0",
+        "andreyryabin/sprint.migration": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dmitriy Gertsen",
+            "email": "hda@ithive.ru"
+        }
+    ],
+    "autoload": {
+        "exclude-from-classmap": [
+            "/tests/"
+        ]
+    },
+    "minimum-stability": "stable",
+    "extra": {
+        "installer-paths": {
+            "vendor/{$vendor}/{$name}/": [
+                "type:bitrix-module"
+            ]
+        }
+    }
+}

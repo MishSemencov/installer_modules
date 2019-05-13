@@ -1,0 +1,4 @@
+<?
+$MESS['FAST_OBJECT_COMPONENT_CONTENT_IMAGE'] = 'Изображения: ';
+$MESS['FAST_OBJECT_COMPONENT_CONTENT_LINK'] = 'Ссылка: ';
+?>

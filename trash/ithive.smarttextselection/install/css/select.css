@@ -1,0 +1,48 @@
+
+/* select menu styles */
+
+.smart-text-selection-menu{
+    position: absolute;
+    display: none;
+    background-color: #eef2f4;
+    border-radius: 3px;
+    -webkit-box-shadow: -1px 1px 5px 0px rgba(0,0,0,0.4);
+    -moz-box-shadow: -1px 1px 5px 0px rgba(0,0,0,0.4);
+    box-shadow: -1px 1px 5px 0px rgba(0,0,0,0.4);
+    z-index: 1050;
+    overflow: hidden;
+}
+.smart-text-selection-menu-item{
+    box-sizing: initial;
+    display:inline-block;
+    cursor: pointer;
+    height: 24px;
+    width: 24px;
+    text-indent: -99999px;
+    padding: 5px;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.smart-text-selection-menu-item:hover{
+    background-color: #cdd3d6;
+}
+.smart-text-selection-menu-item.task{
+    background-image: url('icons/icon_add_task.png');
+
+}
+.smart-text-selection-menu-item.mail{
+    background-image: url('icons/icon_add_mail.png');
+}
+.smart-text-selection-menu-item.event{
+    background-image: url('icons/icon_add_event.png');
+}
+.smart-text-selection-menu-item.chat{
+    background-image: url('icons/icon_add_message_chat.png');
+}
+.smart-text-selection-menu-item.livefeed{
+    background-image: url('icons/icon_add_message_live.png');
+}
+.smart-text-selection-menu-item.idea-icon{
+    background-image: url('icons/icon_create_idea_small.png');
+}
+

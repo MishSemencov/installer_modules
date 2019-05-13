@@ -1,0 +1,5 @@
+<?
+$MESS["TAGS_ENTITY_ID_FIELD"] = "ID";
+$MESS["TAGS_ENTITY_NAME_FIELD"] = "Название";
+$MESS["TAGS_ENTITY_COLOR_FIELD"] = "Цвет";
+?>

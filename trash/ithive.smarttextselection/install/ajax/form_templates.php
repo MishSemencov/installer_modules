@@ -1,0 +1,1 @@
+<?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/modules/ithive.smarttextselection/ajax/form_templates.php");?>

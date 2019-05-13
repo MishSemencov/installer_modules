@@ -1,0 +1,6 @@
+<?php
+$MESS['ITHIVE_IBOARD_IDEAS_LIST_COMPONENT_NAME'] = 'Список идей';
+$MESS['ITHIVE_IBOARD_COMPONENT_IDEAS_LIST_DESCRIPTION'] = 'Компонент выводит список идей пользователя';
+$MESS['ITHIVE_IBOARD_COMPONENT_CATEGORY_TITLE'] = 'Доска идей';
+$MESS['ITHIVE_IBOARD_COMPONENT_DEVELOPER_TITLE'] = 'Улей: компоненты';
+?>

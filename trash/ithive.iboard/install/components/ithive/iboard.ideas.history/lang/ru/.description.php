@@ -1,0 +1,6 @@
+<?php
+$MESS['ITHIVE_IBOARD_IDEAS_HISTORY_COMPONENT_NAME'] = 'История идей';
+$MESS['ITHIVE_IBOARD_COMPONENT_IDEAS_HISTORY_DESCRIPTION'] = 'Компонент выводит историю идей пользователя';
+$MESS['ITHIVE_IBOARD_COMPONENT_CATEGORY_TITLE'] = 'Доска идей';
+$MESS['ITHIVE_IBOARD_COMPONENT_DEVELOPER_TITLE'] = 'Улей: компоненты';
+?>

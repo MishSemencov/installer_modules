@@ -1,0 +1,12 @@
+.fast-object-form-loader{
+    width:700px;
+    height:700px;
+    background: url("icons/loader.svg") no-repeat center center;
+}
+.btn-loader{
+    background-image: url("icons/btn-loader.svg")!important;
+    background-size: contain!important;
+    background-position: right!important;
+    background-repeat: no-repeat!important;
+    pointer-events: none!important;
+}
