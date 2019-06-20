@@ -1,6 +1,0 @@
-<?php
-$MESS['ITHIVE_IBOARD_COMPONENT_NAME'] = 'Доска идей';
-$MESS['ITHIVE_IBOARD_COMPONENT_DESCRIPTION'] = 'Комплексный компонент доски идей';
-$MESS['ITHIVE_IBOARD_COMPONENT_CATEGORY_TITLE'] = 'Доска идей';
-$MESS['ITHIVE_IBOARD_COMPONENT_DEVELOPER_TITLE'] = 'Улей: компоненты';
-?>

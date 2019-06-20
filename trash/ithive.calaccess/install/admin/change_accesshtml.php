@@ -1,1 +1,0 @@
-<? require($_SERVER["DOCUMENT_ROOT"] . "/local/modules/ithive.calaccess/admin/ithive_calaccess.php");?>
